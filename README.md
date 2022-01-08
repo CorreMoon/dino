@@ -1,4 +1,4 @@
-# Chrome dino
+# 谷歌小恐龙<br>Chrome dino
 
 ## 介绍 Introduce
 申明: dino小恐龙源码来自Chromium (非原创)<br>
